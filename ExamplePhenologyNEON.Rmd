@@ -1,0 +1,11 @@
+---
+title: "ExamplePhenologyNEON"
+author: "Elisa"
+date: "2024-09-20"
+output: word_document
+---
+
+```{r}
+rm(list=ls()) # cleans the workspace
+
+```
